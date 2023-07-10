@@ -1,6 +1,3 @@
-// this is import function from packegy in side
-
-
 import signUpUser from './4-user-promise';
 import uploadPhoto from './5-photo-reject';
 
